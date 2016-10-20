@@ -7,7 +7,6 @@ feature "add user" do
     fill_in :email, with: 'felixthecat@felix.com'
     fill_in :username, with: 'Felix123'
     fill_in :password, with: 'felixthecatmiaumiau'
-    click_button 'Create user'
 
     expect{click_button 'Create user'}.to change{User.count}.by(1)
   end
