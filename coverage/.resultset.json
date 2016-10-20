@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/asif/Desktop/makers/week-4/bookmarks/app/app.rb": [
+      "/Users/felixharrison/Projects/week4/databases/bookmark_manager/bookmarks/app/app.rb": [
         1,
         null,
         1,
@@ -63,7 +63,7 @@
         1,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/app/models/user.rb": [
+      "/Users/felixharrison/Projects/week4/databases/bookmark_manager/bookmarks/app/models/user.rb": [
         1,
         1,
         null,
@@ -77,7 +77,7 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/app/data_mapper_setup.rb": [
+      "/Users/felixharrison/Projects/week4/databases/bookmark_manager/bookmarks/app/data_mapper_setup.rb": [
         1,
         1,
         null,
@@ -88,7 +88,7 @@
         1,
         1
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/app/models/tag.rb": [
+      "/Users/felixharrison/Projects/week4/databases/bookmark_manager/bookmarks/app/models/tag.rb": [
         1,
         1,
         null,
@@ -107,7 +107,7 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/features/add_tag_spec.rb": [
+      "/Users/felixharrison/Projects/week4/databases/bookmark_manager/bookmarks/spec/features/add_tag_spec.rb": [
         1,
         null,
         1,
@@ -126,7 +126,7 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/features/add_users_spec.rb": [
+      "/Users/felixharrison/Projects/week4/databases/bookmark_manager/bookmarks/spec/features/add_users_spec.rb": [
         null,
         1,
         null,
@@ -153,7 +153,7 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/features/creating_links_spec.rb": [
+      "/Users/felixharrison/Projects/week4/databases/bookmark_manager/bookmarks/spec/features/creating_links_spec.rb": [
         1,
         null,
         1,
@@ -166,7 +166,7 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/features/search_tags_spec.rb": [
+      "/Users/felixharrison/Projects/week4/databases/bookmark_manager/bookmarks/spec/features/search_tags_spec.rb": [
         1,
         null,
         1,
@@ -180,7 +180,7 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/features/see_links_spec.rb": [
+      "/Users/felixharrison/Projects/week4/databases/bookmark_manager/bookmarks/spec/features/see_links_spec.rb": [
         1,
         null,
         1,
@@ -193,7 +193,7 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/link_spec.rb": [
+      "/Users/felixharrison/Projects/week4/databases/bookmark_manager/bookmarks/spec/link_spec.rb": [
         1,
         null,
         1,
@@ -204,6 +204,6 @@
         null
       ]
     },
-    "timestamp": 1476978859
+    "timestamp": 1476985800
   }
 }
