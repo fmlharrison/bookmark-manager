@@ -9,13 +9,4 @@ feature 'Search by tags' do
     expect(page).to have_content("Kitten Academy")
   end
 
-  scenario 'Adding multipule tags', focus: true do
-    create_link_with_multi_tags
-    click_button 'Add'
-    fill_in :tags, with: 'Kitten, Animal, Cute'
-    click_button 'Search'
-
-    link = Link.first
-    expect(link.tags.map(&:name)).to include('Kitten', 'Animal', 'Cute')
-  end
 end
