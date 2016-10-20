@@ -6,6 +6,9 @@ require_relative './models/user.rb'
 require_relative 'data_mapper_setup'
 
 class BookmarkManager < Sinatra::Base
+
+  set :sessions, true
+
   get '/' do
     erb :index
   end
