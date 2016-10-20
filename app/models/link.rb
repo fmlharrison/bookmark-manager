@@ -1,10 +1,9 @@
 require 'data_mapper'
 require 'dm-postgres-adapter'
 
-
 class Link
 
-  DataMapper::Logger.new($stdout, :debug)
+  # DataMapper::Logger.new($stdout, :debug)
 
   include DataMapper::Resource
 

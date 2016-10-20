@@ -5,8 +5,7 @@ feature 'Search by tags' do
     DatabaseCleaner.clean
     create_link
     click_button 'Add'
-    link = Link.first
-    fill_in :name, with: 'Kitten'
+    fill_in :tags, with: 'Kitten'
     click_button 'Search'
     expect(page).to have_content("Kitten Academy")
   end

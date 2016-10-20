@@ -1,2 +1,10 @@
 
-<h1> <%= @links %> </h1>
+<ul>
+  <% @links.each do |link| %>
+  <h1> <%= link.tags.map(&:name).join(', ') %> </h1> <br>
+  <li>
+    Title:  <%= link.title %> <br>
+    URL:    <a href="<%= link.url %>"><%= link.url %></a>
+  </li>
+  <% end %>
+</ul>
