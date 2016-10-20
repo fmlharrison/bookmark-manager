@@ -28,7 +28,8 @@ class BookmarkManager < Sinatra::Base
 
   get "/tags/:name" do
     tag = Tag.first(name: params[:tags])
-    @links = tag ? tag.links : []
+    @tag_name = params[:tags]
+    @links = tag.links
     erb :tags
   end
 

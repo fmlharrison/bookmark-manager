@@ -2,7 +2,6 @@ require 'spec_helper'
 
 feature 'Search by tags' do
   scenario 'shows tagged links only' do
-    DatabaseCleaner.clean
     create_link
     click_button 'Add'
     fill_in :tags, with: 'Kitten'
