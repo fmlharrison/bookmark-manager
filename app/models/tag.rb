@@ -14,8 +14,4 @@ class Tag
   	tag_names.map {|tag| Tag.first_or_create(name: tag)}
   end
 
-  # def create_tag_names(tag_string)
-  # 	tag_string.split(",").map!(&:strip)
-  # end
-
 end

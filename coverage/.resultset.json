@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/asif/Desktop/makers/week-4/bookmarks/app/app.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/app/app.rb": [
         1,
         null,
         1,
@@ -10,7 +10,7 @@
         null,
         1,
         1,
-        0,
+        2,
         null,
         null,
         1,
@@ -36,7 +36,19 @@
         1,
         1,
         1,
+        null,
+        null,
         1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
         null,
         null,
         null,
@@ -44,7 +56,7 @@
         1,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/app/data_mapper_setup.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/app/data_mapper_setup.rb": [
         1,
         1,
         null,
@@ -52,11 +64,10 @@
         1,
         null,
         null,
-        1,
         1,
         1
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/app/models/tag.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/app/models/tag.rb": [
         1,
         1,
         null,
@@ -73,13 +84,9 @@
         9,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/features/add_tag_spec.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/features/add_tag_spec.rb": [
         1,
         null,
         1,
@@ -98,7 +105,35 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/features/creating_links_spec.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/features/add_users_spec.rb": [
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        2,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/features/creating_links_spec.rb": [
         1,
         null,
         1,
@@ -111,7 +146,7 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/features/search_tags_spec.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/features/search_tags_spec.rb": [
         1,
         null,
         1,
@@ -125,7 +160,7 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/features/see_links_spec.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/features/see_links_spec.rb": [
         1,
         null,
         1,
@@ -138,7 +173,7 @@
         null,
         null
       ],
-      "/Users/asif/Desktop/makers/week-4/bookmarks/spec/link_spec.rb": [
+      "/Users/frankiebell/Makers/Projects/week-4/day3/bookmark_manager/spec/link_spec.rb": [
         1,
         null,
         1,
@@ -149,6 +184,6 @@
         null
       ]
     },
-    "timestamp": 1476971939
+    "timestamp": 1476976771
   }
 }
